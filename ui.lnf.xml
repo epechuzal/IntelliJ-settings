@@ -1,0 +1,6 @@
+<application>
+  <component name="UISettings">
+    <option name="MAX_CLIPBOARD_CONTENTS" value="999999" />
+    <option name="RECENT_FILES_LIMIT" value="999999" />
+  </component>
+</application>
