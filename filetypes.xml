@@ -2,6 +2,14 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern=".common_functions" type="Bash" />
+      <mapping pattern=".aliases" type="Bash" />
+      <mapping pattern=".str_aliases" type="Bash" />
+      <mapping pattern=".osx_bashrc" type="Bash" />
+      <mapping pattern=".development_bashrc" type="Bash" />
+      <mapping pattern=".str_bashrc" type="Bash" />
+      <mapping pattern=".git_svn_bash_prompt" type="Bash" />
+      <mapping pattern=".osx_aliases" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
