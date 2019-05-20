@@ -12,6 +12,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/go/src/github.com" />
+    <option name="cloneParentDir" value="$USER_HOME$/go/src/github.com/sharethrough" />
   </component>
 </application>
