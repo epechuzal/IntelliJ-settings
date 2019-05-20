@@ -3691,7 +3691,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/mysql2/0.3.21" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/mysql2-0.3.21/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/mysql2-0.3.21/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/mysql2-0.3.21/spec" />
@@ -3699,7 +3698,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/mysql2-0.3.21/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/mysql2/0.3.21" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/mysql2-0.3.21/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/mysql2-0.3.21/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/mysql2-0.3.21/spec" />
