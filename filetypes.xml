@@ -2,10 +2,12 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
-      <mapping pattern="Procfile" type="PLAIN_TEXT" />
-      <mapping pattern="Buildfile" type="PLAIN_TEXT" />
+      <mapping pattern="blacklist-pkeys-stackadapt" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping pattern="Buildfile" type="PLAIN_TEXT" />
       <mapping pattern=".osx_aliases" type="PLAIN_TEXT" />
+      <mapping pattern="blacklist-pkeys-sociomantic" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".aliases" type="Bash" />
       <mapping pattern=".common_functions" type="Bash" />
       <mapping pattern=".development_bashrc" type="Bash" />
