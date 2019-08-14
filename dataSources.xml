@@ -1,0 +1,16 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Snowflake dw_viewer" uuid="7af2bcd6-cae4-4f9b-83e5-4d4a8bd7d7cd">
+      <driver-ref>snowflake</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>net.snowflake.client.jdbc.SnowflakeDriver</jdbc-driver>
+      <jdbc-url>jdbc:snowflake://sharethrough.us-east-1.snowflakecomputing.com/?db=analytics&amp;warehouse=airflow_wh&amp;role=dw_viewer</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Snowflake sfp_etl" uuid="9c776b4c-b448-47de-86c5-4e748598af7d">
+      <driver-ref>snowflake</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>net.snowflake.client.jdbc.SnowflakeDriver</jdbc-driver>
+      <jdbc-url>jdbc:snowflake://sharethrough.us-east-1.snowflakecomputing.com/?db=analytics&amp;warehouse=airflow_wh&amp;role=sfp_etl</jdbc-url>
+    </data-source>
+  </component>
+</application>
