@@ -6250,6 +6250,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/signalfx-1.0.1/examples" />
       </excluded>
     </library>
+    <library name="signalfx (v2.1.0@1c6d7f, RVM: ruby-2.5.3 [sfp]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/bundler/gems/signalfx-ruby-1c6d7f777911/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/bundler/gems/signalfx-ruby-1c6d7f777911/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/bundler/gems/signalfx-ruby-1c6d7f777911/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/bundler/gems/signalfx-ruby-1c6d7f777911/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/bundler/gems/signalfx-ruby-1c6d7f777911/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/bundler/gems/signalfx-ruby-1c6d7f777911/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/bundler/gems/signalfx-ruby-1c6d7f777911/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/bundler/gems/signalfx-ruby-1c6d7f777911/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/bundler/gems/signalfx-ruby-1c6d7f777911/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/bundler/gems/signalfx-ruby-1c6d7f777911/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/bundler/gems/signalfx-ruby-1c6d7f777911/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/bundler/gems/signalfx-ruby-1c6d7f777911/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/bundler/gems/signalfx-ruby-1c6d7f777911/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/bundler/gems/signalfx-ruby-1c6d7f777911/examples" />
+      </excluded>
+    </library>
     <library name="signet (v0.11.0, RVM: ruby-2.5.3 [sfp]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
