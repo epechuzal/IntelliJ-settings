@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern="constants" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
-      <mapping ext="tsv" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
