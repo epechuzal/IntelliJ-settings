@@ -6353,6 +6353,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rack-2.1.1/example" />
       </excluded>
     </library>
+    <library name="rack (v2.1.2, RVM: ruby-2.5.3 [sfp]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rack-2.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rack-2.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rack-2.1.2/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rack-2.1.2/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rack-2.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rack-2.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rack-2.1.2/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rack-2.1.2/example" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rack-2.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rack-2.1.2/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rack-2.1.2/example" />
+      </excluded>
+    </library>
     <library name="rack-protection (v2.0.5, RVM: ruby-2.5.3 [sfp]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
