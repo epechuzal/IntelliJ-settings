@@ -15,6 +15,10 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
+          <option name="url" value="https://github.com/sharethrough/nestjs-slack.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="https://github.com/sharethrough/sfa.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
