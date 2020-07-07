@@ -2,6 +2,15 @@
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
+  <SqlCodeStyleSettings version="2">
+    <option name="ALIAS_CASE" value="1" />
+    <option name="KEYWORD_CASE" value="1" />
+    <option name="TYPE_CASE" value="1" />
+    <option name="IDENTIFIER_CASE" value="1" />
+  </SqlCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="0">
+    <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
+  </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />

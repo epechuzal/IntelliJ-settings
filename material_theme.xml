@@ -1,9 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="isWizardShown" value="true" />
-    <option name="overrideAccentColor" value="true" />
     <option name="accentColor" value="009688" />
-    <option name="userId" value="-52b6f6ff:169125819fc:-8000" />
-    <option name="version" value="4.3.4" />
+    <option name="userId" value="-158e10af:16cd90cbb60:-8000" />
+    <option name="version" value="5.2.0" />
   </component>
 </application>
