@@ -5606,6 +5606,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/omniauth-1.6.1/.github" />
       </excluded>
     </library>
+    <library name="omniauth (v1.9.1, RVM: ruby-2.5.3 [sfp]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/omniauth-1.9.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/omniauth-1.9.1/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/omniauth-1.9.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/omniauth-1.9.1/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/omniauth-1.9.1/.github" />
+      </excluded>
+    </library>
     <library name="omniauth-auth0 (v2.0.0, RVM: ruby-2.5.3 [sfp]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5625,6 +5641,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/omniauth-auth0-2.0.0/examples" />
       </excluded>
     </library>
+    <library name="omniauth-auth0 (v2.3.1, RVM: ruby-2.5.3 [sfp]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/omniauth-auth0-2.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/omniauth-auth0-2.3.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/omniauth-auth0-2.3.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/omniauth-auth0-2.3.1/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/omniauth-auth0-2.3.1/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/omniauth-auth0-2.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/omniauth-auth0-2.3.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/omniauth-auth0-2.3.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/omniauth-auth0-2.3.1/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/omniauth-auth0-2.3.1/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/omniauth-auth0-2.3.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/omniauth-auth0-2.3.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/omniauth-auth0-2.3.1/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/omniauth-auth0-2.3.1/.circleci" />
+      </excluded>
+    </library>
     <library name="omniauth-oauth2 (v1.5.0, RVM: ruby-2.5.3 [sfp]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5639,6 +5680,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/omniauth-oauth2-1.5.0/spec" />
+      </excluded>
+    </library>
+    <library name="omniauth-oauth2 (v1.7.0, RVM: ruby-2.5.3 [sfp]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/omniauth-oauth2-1.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/omniauth-oauth2-1.7.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/omniauth-oauth2-1.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/omniauth-oauth2-1.7.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/omniauth-oauth2-1.7.0/spec" />
       </excluded>
     </library>
     <library name="omniauth-rails_csrf_protection (v0.1.2, RVM: ruby-2.5.3 [sfp]) [gem]" type="rubylib">
