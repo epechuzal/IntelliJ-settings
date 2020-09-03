@@ -4423,6 +4423,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/jwt-2.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="jwt (v2.2.2, RVM: ruby-2.5.3 [sfp]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/jwt-2.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/jwt-2.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="kgio (v2.11.2, RVM: ruby-2.5.3 [sfp]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5076,6 +5087,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/multi_json-1.14.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_json (v1.15.0, RVM: ruby-2.5.3 [sfp]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/multi_json-1.15.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/multi_json-1.15.0/lib" />
       </SOURCES>
     </library>
     <library name="multi_xml (v0.6.0, RVM: ruby-2.5.3 [sfp]) [gem]" type="rubylib">
@@ -6616,6 +6638,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rack-2.1.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rack-2.1.2/contrib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rack-2.1.2/example" />
+      </excluded>
+    </library>
+    <library name="rack (v2.1.4, RVM: ruby-2.5.3 [sfp]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rack-2.1.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rack-2.1.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rack-2.1.4/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rack-2.1.4/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rack-2.1.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rack-2.1.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rack-2.1.4/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rack-2.1.4/example" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rack-2.1.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rack-2.1.4/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rack-2.1.4/example" />
       </excluded>
     </library>
     <library name="rack-protection (v2.0.5, RVM: ruby-2.5.3 [sfp]) [gem]" type="rubylib">
