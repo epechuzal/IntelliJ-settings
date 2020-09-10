@@ -6,6 +6,7 @@
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping pattern="validate" type="TypeScript" />
       <mapping pattern="metric-field" type="TypeScript" />
+      <mapping ext="routes" type="TypeScript" />
       <mapping pattern="tsconfig.spec.json" type="tsconfig" />
       <mapping pattern="tsconfig.app.json" type="tsconfig" />
       <mapping pattern="tsconfig.lib.json" type="tsconfig" />
