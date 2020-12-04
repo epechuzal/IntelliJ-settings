@@ -19,4 +19,9 @@
   <template name="bf" value="before(() =&gt; {&#10;  $END$&#10;});" description="Inserts before() block" toReformat="true" toShortenFQNames="true">
     <context />
   </template>
+  <template name="descre" value="describe.each([&#10;  [],&#10;])('', () =&gt; {&#10;  $END$&#10;});" description="Inserts describe.each() block" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
