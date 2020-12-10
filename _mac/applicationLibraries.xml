@@ -926,12 +926,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/binding_of_caller/0.8.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/binding_of_caller-0.8.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/binding_of_caller-0.8.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/binding_of_caller-0.8.0/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/binding_of_caller-0.8.0/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/binding_of_caller/0.8.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/binding_of_caller-0.8.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/binding_of_caller-0.8.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/binding_of_caller-0.8.0/test" />
@@ -5588,10 +5590,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/ovirt-engine-sdk/4.3.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/ovirt-engine-sdk-4.3.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/ovirt-engine-sdk-4.3.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/ovirt-engine-sdk/4.3.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/ovirt-engine-sdk-4.3.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/ovirt-engine-sdk-4.3.0/lib" />
       </SOURCES>
@@ -6732,12 +6736,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/rbtrace/0.4.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rbtrace-0.4.11/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rbtrace-0.4.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rbtrace-0.4.11/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rbtrace-0.4.11/tracers" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/rbtrace/0.4.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rbtrace-0.4.11/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rbtrace-0.4.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rbtrace-0.4.11/lib" />
@@ -8711,6 +8717,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/unicorn/4.9.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/unicorn-4.9.0/t" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/unicorn-4.9.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/unicorn-4.9.0/ext" />
@@ -8722,6 +8729,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/unicorn-4.9.0/Documentation" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/unicorn/4.9.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/unicorn-4.9.0/t" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/unicorn-4.9.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/unicorn-4.9.0/ext" />
