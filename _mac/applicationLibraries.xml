@@ -6762,14 +6762,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/rbtrace/0.4.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rbtrace-0.4.11/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rbtrace-0.4.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rbtrace-0.4.11/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rbtrace-0.4.11/tracers" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/rbtrace/0.4.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rbtrace-0.4.11/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rbtrace-0.4.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rbtrace-0.4.11/lib" />
@@ -6785,12 +6783,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/rbtrace/0.4.14" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rbtrace-0.4.14/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rbtrace-0.4.14/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rbtrace-0.4.14/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rbtrace-0.4.14/tracers" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/rbtrace/0.4.14" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rbtrace-0.4.14/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rbtrace-0.4.14/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3@sfp/gems/rbtrace-0.4.14/lib" />
