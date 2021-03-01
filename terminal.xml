@@ -1,0 +1,5 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myShellPath" value="/usr/local/Cellar/zsh/5.8/bin/zsh" />
+  </component>
+</application>
